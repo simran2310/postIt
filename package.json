@@ -9,9 +9,8 @@
     "test": "ng test",
     "start:server": "nodemon ./backend/server.js",
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build",
-    "homepage" : "https://simran2310.github.io/PostIt"
-    
+    "deploy": "gh-pages -d build",
+    "homepage": "https://simran2310.github.io/PostIt"
   },
   "private": true,
   "dependencies": {
